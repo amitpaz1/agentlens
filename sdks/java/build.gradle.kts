@@ -23,7 +23,7 @@ dependencies {
     api("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.22.1")
 
     // Test
-    testImplementation("org.junit.jupiter:junit-jupiter:6.1.2")
+    testImplementation("org.junit.jupiter:junit-jupiter:6.1.3")
     testImplementation("com.squareup.okhttp3:mockwebserver:5.4.0")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
